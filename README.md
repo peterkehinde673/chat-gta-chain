@@ -44,3 +44,7 @@ Testnet Phase
 
 ## 📌 Note
 This project explores the intersection of blockchain, communication, and intelligent systems.
+
+
+## 🌐 Part of Kehinde Ecosystem
+This project is part of the Kehinde Ecosystem.
